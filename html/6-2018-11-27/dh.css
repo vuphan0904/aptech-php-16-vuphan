@@ -1,0 +1,10 @@
+
+header{
+background-color: rgba(0, 0, 0, .85);
+}
+.list-unstyled li a{
+    text-decoration: none;
+}
+.jumbotron{
+    background-color: #fff;
+}
