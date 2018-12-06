@@ -1,0 +1,10 @@
+.blog-header-logo {
+    color: #28a745!important;
+    font-size: 2rem;
+}
+a{
+    text-decoration: none!important;
+}
+.hot-new{
+    border-bottom: 1px solid #e5e5e5;
+}

@@ -1,0 +1,29 @@
+.anh-0{
+background-image: url(./photo-1543876739-ffff1164ecf3.jpg);
+height: 500px;
+background-repeat: no-repeat;
+    background-size: cover;
+background-position: 50% 50%;}
+.anh-1{
+    background-image: url(./photo-1543869090-3a65f60912d4.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+.anh-2{
+        background-image: url(./photo-1543880395-a9367f0acb68.jpg);
+        height: 500px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+        }
+        .carousel {
+            margin-bottom: 4rem;
+        }
+.heading{
+    text-align: center;
+}
+.featurette-divider {
+    margin: 5rem 0;
+}
